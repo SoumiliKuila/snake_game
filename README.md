@@ -7,7 +7,7 @@ The game is designed to work directly in a web browser and is mobile-friendly, s
 🎮 Live Demo
 
 Play the game:
-https://soumilikuila.github.io/snake-game/
+https://soumilikuila.github.io/snake_game/
 
 ✨ Features
 
